@@ -16,7 +16,7 @@ I am a game developer specializing in gameplay systems, Unity tooling, and techn
 | :--- | :--- | :--- |
 | [CharacterMotor](https://github.com/haruchanz64/CharacterMotor) | Runtime | Modular character controller supporting CharacterController, Rigidbody, and Rigidbody2D via swappable locomotion modules |
 | [CommonEventsEngine](https://github.com/haruchanz64/CommonEventsEngine) | Runtime + Editor | RPG Maker-inspired event scripting framework with global switches/variables, uGUI dialogue/fader, and a UI Toolkit workbench |
-| [CustomAnimHandler](https://github.com/haruchanz64/CustomAnimHandler) | Runtime | Code-driven 2D/3D animation controller built on the Playables API without AnimatorController state graphs |
+| [PlayablesAnimatorController](https://github.com/haruchanz64/PlayablesAnimatorController) | Runtime | Code-driven 2D/3D animation controller built on the Playables API without AnimatorController state graphs |
 | [GachaEngine](https://github.com/haruchanz64/GachaEngine) | Runtime | Configurable banner, soft/hard pity, and drop-rate simulator with custom rarity tiers and Canvas/3D reveal hooks |
 | [MelodyRecognitionEngine](https://github.com/haruchanz64/MelodyRecognitionEngine) | Runtime + Editor | Real-time Burst-compiled humming and instrument melody recognition with YIN pitch tracking, staff HUD, and UI Toolkit workbench |
 
@@ -37,7 +37,7 @@ I am a game developer specializing in gameplay systems, Unity tooling, and techn
 | [SaveEncryptionToolkit](https://github.com/haruchanz64/SaveEncryptionToolkit) | Runtime | Pluggable encryption and serialization utilities that decouple storage security from save schemas |
 | [ScriptableBatchTool](https://github.com/haruchanz64/ScriptableBatchTool) | Editor | Editor window for batch-creating, renaming, and bulk-editing ScriptableObject assets |
 | [SpreadsheetToScriptableObjects](https://github.com/haruchanz64/SpreadsheetToScriptableObjects) | Editor | Editor importer that parses `.csv` and `.xlsx` sheets into typed ScriptableObject assets |
-| [UnityEventToolkit](https://github.com/haruchanz64/UnityEventToolkit) | Editor | Editor scanner for locating, auditing, and cleaning up broken or unused UnityEvent listeners across scenes and prefabs |
+| [UnityEventAuditor](https://github.com/haruchanz64/UnityEventAuditor) | Editor | Editor scanner for locating, auditing, and cleaning up broken or unused UnityEvent listeners across scenes and prefabs |
 
 ### QA and Debugging
 
