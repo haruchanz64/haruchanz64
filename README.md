@@ -14,6 +14,7 @@ Game developer specializing in gameplay systems, Unity tooling, and technical ga
 
 | Package | What it does |
 | :--- | :--- |
+| [MelodyRecognitionEngine](https://github.com/haruchanz64/MelodyRecognitionEngine) | Real-time Burst-compiled humming and instrument melody recognition with YIN pitch tracking, staff HUD, and UI Toolkit workbench |
 | [CommonEventsEngine](https://github.com/haruchanz64/CommonEventsEngine) | RPG Maker-inspired event scripting framework with global switches/variables, uGUI dialogue/fader, and a UI Toolkit workbench |
 | [UnityAuthCore](https://github.com/haruchanz64/UnityAuthCore) | Backend-agnostic auth and typed REST API framework with single-flight 401 refresh and Unity Multiplayer connection approval |
 | [GachaEngine](https://github.com/haruchanz64/GachaEngine) | Configurable banner, soft/hard pity, and drop-rate simulator with custom rarity tiers and Canvas/3D reveal hooks |
