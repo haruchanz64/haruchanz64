@@ -1,6 +1,6 @@
 # Aron Jake Radam (Haru)
 
-Game developer specializing in gameplay systems, Unity tooling, and technical game design. I teach game development (BS EMC) at the University of Caloocan City and build open-source Unity 6 packages for gameplay, networking, and QA workflows.
+I am a game developer specializing in gameplay systems, Unity tooling, and technical game design. I teach game development (BS EMC) at the University of Caloocan City and build open-source Unity 6 packages for gameplay, networking, and QA workflows.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-haruchanz64.github.io-111827?style=flat-square)](https://haruchanz64.github.io)
 [![itch.io](https://img.shields.io/badge/itch.io-haruchanz64-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://haruchanz64.itch.io/)
@@ -48,7 +48,7 @@ Game developer specializing in gameplay systems, Unity tooling, and technical ga
 
 ## Games
 
-Playable builds on [haruchanz64.itch.io](https://haruchanz64.itch.io/):
+Playable builds are available on [haruchanz64.itch.io](https://haruchanz64.itch.io/):
 
 - [Trash Frenzy](https://haruchanz64.itch.io/trashfrenzy) (Android, Capstone Project): 2D action side-scroller promoting water pollution awareness.
 - [Orders Please](https://haruchanz64.itch.io/orders-please) (Windows): street food vendor simulator.
@@ -66,10 +66,10 @@ Playable builds on [haruchanz64.itch.io](https://haruchanz64.itch.io/):
 
 ## Background
 
-- **College Instructor**, University of Caloocan City (July 2026 to present). Teaching game design theory, Unity (C#) prototyping, OOP, game math, physics, AI, networking, and production pipelines.
-- **Full-Stack Software Engineer**, PicStar Software OPC (August 2025 to October 2026). Sole engineer on PicStar, a Flutter and Supabase social app shipped to the Google Play Store.
-- **QA Analyst and Playtester**, GridLock-Games Studio (December 2022 to April 2025). Playtested in-development builds, reproduced regressions, and gave gameplay loop and balance feedback.
+- **College Instructor**, University of Caloocan City (July 2026 to present). I teach game design theory, Unity (C#) prototyping, OOP, game math, physics, AI, networking, and production pipelines.
+- **Full-Stack Software Engineer**, PicStar Software OPC (August 2025 to October 2026). I was the sole engineer on PicStar, a Flutter and Supabase social app shipped to the Google Play Store.
+- **QA Analyst and Playtester**, GridLock-Games Studio (December 2022 to April 2025). I playtested in-development builds, reproduced regressions, and provided gameplay loop and balance feedback.
 
 ## Contact
 
-Open to gameplay/tools programming roles, technical game design, freelance work, and collaborations. Reach me through the contact form at [haruchanz64.github.io/#contact](https://haruchanz64.github.io/#contact) or on [LinkedIn](https://www.linkedin.com/in/aronjakeradam/).
+I am open to gameplay/tools programming roles, technical game design, freelance work, and collaborations. Reach me through the contact form at [haruchanz64.github.io/#contact](https://haruchanz64.github.io/#contact) or on [LinkedIn](https://www.linkedin.com/in/aronjakeradam/).
