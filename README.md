@@ -1,0 +1,63 @@
+# Aron Jake Radam (Haru)
+
+Game developer specializing in gameplay systems, Unity tooling, and technical game design. I teach game development (BS EMC) at the University of Caloocan City and build open-source Unity 6 packages for gameplay, networking, and QA workflows.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-haruchanz64.github.io-111827?style=flat-square)](https://haruchanz64.github.io)
+[![itch.io](https://img.shields.io/badge/itch.io-haruchanz64-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://haruchanz64.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aronjakeradam-0A66C2?style=flat-square)](https://www.linkedin.com/in/aronjakeradam/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-haruchanz64-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/haruchanz64.bsky.social)
+[![DEV](https://img.shields.io/badge/DEV-haruchanz64-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/haruchanz64)
+
+## Unity 6 Systems and Tooling
+
+### Runtime Systems
+
+| Package | What it does |
+| :--- | :--- |
+| [UnityAuthCore](https://github.com/haruchanz64/UnityAuthCore) | Backend-agnostic auth and typed REST API framework with single-flight 401 refresh and Unity Multiplayer connection approval |
+| [GachaEngine](https://github.com/haruchanz64/GachaEngine) | Configurable banner, soft/hard pity, and drop-rate simulator with custom rarity tiers and Canvas/3D reveal hooks |
+| [CustomAnimHandler](https://github.com/haruchanz64/CustomAnimHandler) | Code-driven 2D/3D animation controller built on the Playables API without AnimatorController state graphs |
+| [CharacterMotor](https://github.com/haruchanz64/CharacterMotor) | Modular character controller supporting CharacterController, Rigidbody, and Rigidbody2D via swappable locomotion modules |
+| [SaveEncryptionToolkit](https://github.com/haruchanz64/SaveEncryptionToolkit) | Pluggable encryption and serialization utilities that decouple storage security from save schemas |
+| [DebugCommandSystem](https://github.com/haruchanz64/DebugCommandSystem) | Extendable in-game debug console on the New Input System with typed commands and autocomplete |
+
+### Editor, Networking, and QA Tools
+
+| Package | What it does |
+| :--- | :--- |
+| [GameBalancer](https://github.com/haruchanz64/GameBalancer) | UI Toolkit workbench for tuning progression curves, Monte Carlo loot/pity odds, combat TTK matrices, and resource economies |
+| [AssetImportRules](https://github.com/haruchanz64/AssetImportRules) | Rule-driven Editor pipeline for auditing and optimizing Sprite, UI, Texture, 3D Model, and Audio imports |
+| [NetAuditToolkit](https://github.com/haruchanz64/NetAuditToolkit) | Static analyzer and hierarchy badge overlay that flags NGO, Mirror, and FishNet issues across scenes, prefabs, and RPCs |
+| [NetSimToolkit](https://github.com/haruchanz64/NetSimToolkit) | Localhost UDP/TCP network condition simulator, live bandwidth profiler, chaos timeline runner, and QA repro exporter |
+| [BugReportToolkit](https://github.com/haruchanz64/BugReportToolkit) | In-game bug reporter that bundles screenshots, console logs, and diagnostics into ZIP archives or webhooks |
+| [SpreadsheetToScriptableObjects](https://github.com/haruchanz64/SpreadsheetToScriptableObjects) | Editor importer that parses `.csv` and `.xlsx` sheets into typed ScriptableObject assets |
+| [UnityEventToolkit](https://github.com/haruchanz64/UnityEventToolkit) | Editor scanner for locating, auditing, and cleaning up broken or unused UnityEvent listeners across scenes and prefabs |
+| [ScriptableBatchTool](https://github.com/haruchanz64/ScriptableBatchTool) | Editor window for batch-creating, renaming, and bulk-editing ScriptableObject assets |
+
+## Games
+
+Playable builds on [haruchanz64.itch.io](https://haruchanz64.itch.io/):
+
+- [Trash Frenzy](https://haruchanz64.itch.io/trashfrenzy) (Android, Capstone Project): 2D action side-scroller promoting water pollution awareness.
+- [Orders Please](https://haruchanz64.itch.io/orders-please) (Windows): street food vendor simulator.
+- [Cyclescape](https://haruchanz64.itch.io/cyclescape) (Android): educational top-down shooter.
+- [Night Light](https://haruchanz64.itch.io/night-light) (Windows): platformer.
+
+## Stack
+
+| Area | Tech |
+| :--- | :--- |
+| Engines and frameworks | Unity 6, Flutter, Spring Boot |
+| Languages | C#, Dart, Java |
+| Databases and backend | PostgreSQL, Supabase, MySQL |
+| Tools | JetBrains Rider, Visual Studio, VS Code, Git, Docker, Figma |
+
+## Background
+
+- **College Instructor**, University of Caloocan City (July 2026 to present). Teaching game design theory, Unity (C#) prototyping, OOP, game math, physics, AI, networking, and production pipelines.
+- **Full-Stack Software Engineer**, PicStar Software OPC (August 2025 to October 2026). Sole engineer on PicStar, a Flutter and Supabase social app shipped to the Google Play Store.
+- **QA Analyst and Playtester**, GridLock-Games Studio (December 2022 to April 2025). Playtested in-development builds, reproduced regressions, and gave gameplay loop and balance feedback.
+
+## Contact
+
+Open to gameplay/tools programming roles, technical game design, freelance work, and collaborations. Reach me through the contact form at [haruchanz64.github.io/#contact](https://haruchanz64.github.io/#contact) or on [LinkedIn](https://www.linkedin.com/in/aronjakeradam/).
