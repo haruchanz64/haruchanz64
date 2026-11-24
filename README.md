@@ -10,31 +10,41 @@ Game developer specializing in gameplay systems, Unity tooling, and technical ga
 
 ## Unity 6 Systems and Tooling
 
-### Runtime Systems
+### Gameplay Systems
 
-| Package | What it does |
-| :--- | :--- |
-| [MelodyRecognitionEngine](https://github.com/haruchanz64/MelodyRecognitionEngine) | Real-time Burst-compiled humming and instrument melody recognition with YIN pitch tracking, staff HUD, and UI Toolkit workbench |
-| [CommonEventsEngine](https://github.com/haruchanz64/CommonEventsEngine) | RPG Maker-inspired event scripting framework with global switches/variables, uGUI dialogue/fader, and a UI Toolkit workbench |
-| [UnityAuthCore](https://github.com/haruchanz64/UnityAuthCore) | Backend-agnostic auth and typed REST API framework with single-flight 401 refresh and Unity Multiplayer connection approval |
-| [GachaEngine](https://github.com/haruchanz64/GachaEngine) | Configurable banner, soft/hard pity, and drop-rate simulator with custom rarity tiers and Canvas/3D reveal hooks |
-| [CustomAnimHandler](https://github.com/haruchanz64/CustomAnimHandler) | Code-driven 2D/3D animation controller built on the Playables API without AnimatorController state graphs |
-| [CharacterMotor](https://github.com/haruchanz64/CharacterMotor) | Modular character controller supporting CharacterController, Rigidbody, and Rigidbody2D via swappable locomotion modules |
-| [SaveEncryptionToolkit](https://github.com/haruchanz64/SaveEncryptionToolkit) | Pluggable encryption and serialization utilities that decouple storage security from save schemas |
-| [DebugCommandSystem](https://github.com/haruchanz64/DebugCommandSystem) | Extendable in-game debug console on the New Input System with typed commands and autocomplete |
+| Package | Scope | What it does |
+| :--- | :--- | :--- |
+| [CharacterMotor](https://github.com/haruchanz64/CharacterMotor) | Runtime | Modular character controller supporting CharacterController, Rigidbody, and Rigidbody2D via swappable locomotion modules |
+| [CommonEventsEngine](https://github.com/haruchanz64/CommonEventsEngine) | Runtime + Editor | RPG Maker-inspired event scripting framework with global switches/variables, uGUI dialogue/fader, and a UI Toolkit workbench |
+| [CustomAnimHandler](https://github.com/haruchanz64/CustomAnimHandler) | Runtime | Code-driven 2D/3D animation controller built on the Playables API without AnimatorController state graphs |
+| [GachaEngine](https://github.com/haruchanz64/GachaEngine) | Runtime | Configurable banner, soft/hard pity, and drop-rate simulator with custom rarity tiers and Canvas/3D reveal hooks |
+| [MelodyRecognitionEngine](https://github.com/haruchanz64/MelodyRecognitionEngine) | Runtime + Editor | Real-time Burst-compiled humming and instrument melody recognition with YIN pitch tracking, staff HUD, and UI Toolkit workbench |
 
-### Editor, Networking, and QA Tools
+### Networking and Backend
 
-| Package | What it does |
-| :--- | :--- |
-| [GameBalancer](https://github.com/haruchanz64/GameBalancer) | UI Toolkit workbench for tuning progression curves, Monte Carlo loot/pity odds, combat TTK matrices, and resource economies |
-| [AssetImportRules](https://github.com/haruchanz64/AssetImportRules) | Rule-driven Editor pipeline for auditing and optimizing Sprite, UI, Texture, 3D Model, and Audio imports |
-| [NetAuditToolkit](https://github.com/haruchanz64/NetAuditToolkit) | Static analyzer and hierarchy badge overlay that flags NGO, Mirror, and FishNet issues across scenes, prefabs, and RPCs |
-| [NetSimToolkit](https://github.com/haruchanz64/NetSimToolkit) | Localhost UDP/TCP network condition simulator, live bandwidth profiler, chaos timeline runner, and QA repro exporter |
-| [BugReportToolkit](https://github.com/haruchanz64/BugReportToolkit) | In-game bug reporter that bundles screenshots, console logs, and diagnostics into ZIP archives or webhooks |
-| [SpreadsheetToScriptableObjects](https://github.com/haruchanz64/SpreadsheetToScriptableObjects) | Editor importer that parses `.csv` and `.xlsx` sheets into typed ScriptableObject assets |
-| [UnityEventToolkit](https://github.com/haruchanz64/UnityEventToolkit) | Editor scanner for locating, auditing, and cleaning up broken or unused UnityEvent listeners across scenes and prefabs |
-| [ScriptableBatchTool](https://github.com/haruchanz64/ScriptableBatchTool) | Editor window for batch-creating, renaming, and bulk-editing ScriptableObject assets |
+| Package | Scope | What it does |
+| :--- | :--- | :--- |
+| [NetAuditToolkit](https://github.com/haruchanz64/NetAuditToolkit) | Editor | Static analyzer and hierarchy badge overlay that flags NGO, Mirror, and FishNet issues across scenes, prefabs, and RPCs |
+| [NetSimToolkit](https://github.com/haruchanz64/NetSimToolkit) | Runtime + Editor | Localhost UDP/TCP network condition simulator, live bandwidth profiler, chaos timeline runner, and QA repro exporter |
+| [UnityAuthCore](https://github.com/haruchanz64/UnityAuthCore) | Runtime | Backend-agnostic auth and typed REST API framework with single-flight 401 refresh and Unity Multiplayer connection approval |
+
+### Editor, Data, and Content Pipelines
+
+| Package | Scope | What it does |
+| :--- | :--- | :--- |
+| [AssetImportRules](https://github.com/haruchanz64/AssetImportRules) | Editor | Rule-driven Editor pipeline for auditing and optimizing Sprite, UI, Texture, 3D Model, and Audio imports |
+| [GameBalancer](https://github.com/haruchanz64/GameBalancer) | Editor | UI Toolkit workbench for tuning progression curves, Monte Carlo loot/pity odds, combat TTK matrices, and resource economies |
+| [SaveEncryptionToolkit](https://github.com/haruchanz64/SaveEncryptionToolkit) | Runtime | Pluggable encryption and serialization utilities that decouple storage security from save schemas |
+| [ScriptableBatchTool](https://github.com/haruchanz64/ScriptableBatchTool) | Editor | Editor window for batch-creating, renaming, and bulk-editing ScriptableObject assets |
+| [SpreadsheetToScriptableObjects](https://github.com/haruchanz64/SpreadsheetToScriptableObjects) | Editor | Editor importer that parses `.csv` and `.xlsx` sheets into typed ScriptableObject assets |
+| [UnityEventToolkit](https://github.com/haruchanz64/UnityEventToolkit) | Editor | Editor scanner for locating, auditing, and cleaning up broken or unused UnityEvent listeners across scenes and prefabs |
+
+### QA and Debugging
+
+| Package | Scope | What it does |
+| :--- | :--- | :--- |
+| [BugReportToolkit](https://github.com/haruchanz64/BugReportToolkit) | Runtime | In-game bug reporter that bundles screenshots, console logs, and diagnostics into ZIP archives or webhooks |
+| [DebugCommandSystem](https://github.com/haruchanz64/DebugCommandSystem) | Runtime | Extendable in-game debug console on the New Input System with typed commands and autocomplete |
 
 ## Games
 
