@@ -14,10 +14,10 @@ I am a game developer specializing in gameplay systems, Unity tooling, and techn
 
 | Package | Scope | What it does |
 | :--- | :--- | :--- |
-| [CharacterMotor](https://github.com/haruchanz64/CharacterMotor) | Runtime | Modular character controller supporting CharacterController, Rigidbody, and Rigidbody2D via swappable locomotion modules |
+| [CharacterMotor](https://github.com/haruchanz64/CharacterMotor) | Runtime + Editor | Modular character controller supporting CharacterController, Rigidbody, and Rigidbody2D via swappable locomotion modules and a UI Toolkit debugger |
 | [CommonEventsEngine](https://github.com/haruchanz64/CommonEventsEngine) | Runtime + Editor | RPG Maker-inspired event scripting framework with global switches/variables, uGUI dialogue/fader, and a UI Toolkit workbench |
-| [PlayablesAnimatorController](https://github.com/haruchanz64/PlayablesAnimatorController) | Runtime | Code-driven 2D/3D animation controller built on the Playables API without AnimatorController state graphs |
-| [GachaEngine](https://github.com/haruchanz64/GachaEngine) | Runtime | Configurable banner, soft/hard pity, and drop-rate simulator with custom rarity tiers and Canvas/3D reveal hooks |
+| [PlayablesAnimatorController](https://github.com/haruchanz64/PlayablesAnimatorController) | Runtime + Editor | Code-driven 2D/3D animation controller on the Playables API without AnimatorController state graphs, with a UI Toolkit debugger |
+| [GachaEngine](https://github.com/haruchanz64/GachaEngine) | Runtime + Editor | Configurable banner, soft/hard pity, and Monte Carlo drop-rate simulator with Canvas/3D reveal hooks and a UI Toolkit Banner Simulator |
 | [MelodyRecognitionEngine](https://github.com/haruchanz64/MelodyRecognitionEngine) | Runtime + Editor | Real-time Burst-compiled humming and instrument melody recognition with YIN pitch tracking, staff HUD, and UI Toolkit workbench |
 | [UtilityAIEngine](https://github.com/haruchanz64/UtilityAIEngine) | Runtime + Editor | Utility AI runtime engine with parametric response curves, compensated scoring, an EditMode what-if simulator, and a UI Toolkit workbench debugger |
 
@@ -27,24 +27,24 @@ I am a game developer specializing in gameplay systems, Unity tooling, and techn
 | :--- | :--- | :--- |
 | [NetAuditToolkit](https://github.com/haruchanz64/NetAuditToolkit) | Editor | Static analyzer and hierarchy badge overlay that flags NGO, Mirror, and FishNet issues across scenes, prefabs, and RPCs |
 | [NetSimToolkit](https://github.com/haruchanz64/NetSimToolkit) | Runtime + Editor | Localhost UDP/TCP network condition simulator, live bandwidth profiler, chaos timeline runner, and QA repro exporter |
-| [UnityAuthCore](https://github.com/haruchanz64/UnityAuthCore) | Runtime | Backend-agnostic auth and typed REST API framework with single-flight 401 refresh and Unity Multiplayer connection approval |
+| [UnityAuthCore](https://github.com/haruchanz64/UnityAuthCore) | Runtime + Editor | Backend-agnostic auth and typed REST API framework with single-flight 401 refresh, multiplayer connection approval, a UI Toolkit console, and a Docker reference server |
 
 ### Editor, Data, and Content Pipelines
 
 | Package | Scope | What it does |
 | :--- | :--- | :--- |
 | [AssetImportRules](https://github.com/haruchanz64/AssetImportRules) | Editor | Rule-driven Editor pipeline for auditing and optimizing Sprite, UI, Texture, 3D Model, and Audio imports |
-| [GameBalancer](https://github.com/haruchanz64/GameBalancer) | Editor | UI Toolkit workbench for tuning progression curves, Monte Carlo loot/pity odds, combat TTK matrices, and resource economies |
+| [GameBalancer](https://github.com/haruchanz64/GameBalancer) | Runtime + Editor | Runtime math/simulation library and UI Toolkit workbench for progression curves, Monte Carlo loot/pity odds, combat TTK matrices, and resource economies |
 | [SaveEncryptionToolkit](https://github.com/haruchanz64/SaveEncryptionToolkit) | Runtime | Pluggable encryption and serialization utilities that decouple storage security from save schemas |
 | [ScriptableBatchTool](https://github.com/haruchanz64/ScriptableBatchTool) | Editor | Editor window for batch-creating, renaming, and bulk-editing ScriptableObject assets |
-| [SpreadsheetToScriptableObjects](https://github.com/haruchanz64/SpreadsheetToScriptableObjects) | Editor | Editor importer that parses `.csv` and `.xlsx` sheets into typed ScriptableObject assets |
-| [UnityEventAuditor](https://github.com/haruchanz64/UnityEventAuditor) | Editor | Editor scanner for locating, auditing, and cleaning up broken or unused UnityEvent listeners across scenes and prefabs |
+| [SpreadsheetToScriptableObjects](https://github.com/haruchanz64/SpreadsheetToScriptableObjects) | Editor | Editor importer that parses `.csv`, `.tsv`, and `.xlsx` sheets into typed ScriptableObject assets |
+| [UnityEventAuditor](https://github.com/haruchanz64/UnityEventAuditor) | Editor | Editor scanner for locating, auditing, and cleaning up broken or unused UnityEvent listeners across scenes, prefabs, and ScriptableObjects |
 
 ### QA and Debugging
 
 | Package | Scope | What it does |
 | :--- | :--- | :--- |
-| [BugReportToolkit](https://github.com/haruchanz64/BugReportToolkit) | Runtime | In-game bug reporter that bundles screenshots, console logs, and diagnostics into ZIP archives or webhooks |
+| [BugReportToolkit](https://github.com/haruchanz64/BugReportToolkit) | Runtime + Editor | In-game bug reporter bundling screenshots, console logs, and diagnostics into ZIP archives or webhooks, paired with an in-Editor Report Viewer |
 | [DebugCommandSystem](https://github.com/haruchanz64/DebugCommandSystem) | Runtime + Editor | Extendable in-game debug console on the New Input System with typed commands, autocomplete, and a UI Toolkit Editor Console window |
 
 ## Games
