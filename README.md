@@ -59,8 +59,8 @@ Playable builds are available on [haruchanz64.itch.io](https://haruchanz64.itch.
 
 | Area | Tech |
 | :--- | :--- |
-| Engines and frameworks | Unity 6, Flutter, Spring Boot |
-| Languages | C#, Dart, Java |
+| Engines and frameworks | Unity 6, Flutter |
+| Languages | C#, Dart |
 | Databases and backend | PostgreSQL, Supabase, MySQL |
 | Tools | JetBrains Rider, Visual Studio, VS Code, Git, Docker, Figma |
 
