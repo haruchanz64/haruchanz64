@@ -19,7 +19,7 @@ I am a game developer specializing in gameplay systems, Unity tooling, and techn
 | [PlayablesAnimatorController](https://github.com/haruchanz64/PlayablesAnimatorController) | Runtime | Code-driven 2D/3D animation controller built on the Playables API without AnimatorController state graphs |
 | [GachaEngine](https://github.com/haruchanz64/GachaEngine) | Runtime | Configurable banner, soft/hard pity, and drop-rate simulator with custom rarity tiers and Canvas/3D reveal hooks |
 | [MelodyRecognitionEngine](https://github.com/haruchanz64/MelodyRecognitionEngine) | Runtime + Editor | Real-time Burst-compiled humming and instrument melody recognition with YIN pitch tracking, staff HUD, and UI Toolkit workbench |
-| [UtilityAIWorkbench](https://github.com/haruchanz64/UtilityAIWorkbench) | Runtime + Editor | Zero-dependency Utility AI runtime with parametric response curves, Dave Mark compensated scoring, EditMode what-if simulator, and Play Mode runtime debugger |
+| [UtilityAIWorkbench](https://github.com/haruchanz64/UtilityAIWorkbench) | Runtime + Editor | Utility AI runtime with parametric response curves, compensated scoring, an EditMode what-if simulator, and a Play Mode runtime debugger |
 
 ### Networking and Backend
 
