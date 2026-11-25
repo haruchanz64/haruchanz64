@@ -45,7 +45,7 @@ I am a game developer specializing in gameplay systems, Unity tooling, and techn
 | Package | Scope | What it does |
 | :--- | :--- | :--- |
 | [BugReportToolkit](https://github.com/haruchanz64/BugReportToolkit) | Runtime | In-game bug reporter that bundles screenshots, console logs, and diagnostics into ZIP archives or webhooks |
-| [DebugCommandSystem](https://github.com/haruchanz64/DebugCommandSystem) | Runtime | Extendable in-game debug console on the New Input System with typed commands and autocomplete |
+| [DebugCommandSystem](https://github.com/haruchanz64/DebugCommandSystem) | Runtime + Editor | Extendable in-game debug console on the New Input System with typed commands, autocomplete, and a UI Toolkit Editor Console window |
 
 ## Games
 
